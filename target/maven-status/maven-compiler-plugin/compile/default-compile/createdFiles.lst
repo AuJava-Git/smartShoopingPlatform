@@ -1,7 +1,0 @@
-cn\fly\smartshopping\controller\ProductController.class
-cn\fly\smartshopping\SmartShoppingBackendApplication.class
-cn\fly\smartshopping\service\impl\ProductServiceImpl.class
-cn\fly\smartshopping\config\MybatisPlusConfig.class
-cn\fly\smartshopping\entity\Product.class
-cn\fly\smartshopping\mapper\ProductMapper.class
-cn\fly\smartshopping\service\ProductService.class
